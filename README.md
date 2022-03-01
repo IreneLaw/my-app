@@ -1,1 +1,1 @@
-# new-app
+# my-app
